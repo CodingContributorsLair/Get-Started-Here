@@ -13,6 +13,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AvidCoder101",
+      "name": "AvidCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807684?v=4",
+      "profile": "https://avidcoder101.github.io",
+      "contributions": [
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
