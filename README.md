@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-This repository is designed for helping beginners contribute to open-source. Remember, contributing to any of our repositories can result in a membership.
+This repository is designed for helping beginners contribute to open-source. Remember, contributing to any of our repositories can result in an invitation.
 
 
 ### 1. Fork the repository :
