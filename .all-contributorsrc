@@ -31,10 +31,19 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "akshatmittal61",
+      "name": "Akshat Mittal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84612609?v=4",
+      "profile": "https://akshatmittal61.github.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Practice-Contributing",
+  "projectName": "Get-Started-Here",
   "projectOwner": "CodingContributorsLair",
   "repoType": "github",
   "repoHost": "https://github.com",
