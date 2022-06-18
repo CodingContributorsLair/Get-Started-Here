@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://avidcoder101.github.io"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#projectManagement-AvidCoder101" title="Project Management">📆</a></td>
     <td align="center"><a href="https://aroramrinaal.github.io"><img src="https://avatars.githubusercontent.com/u/90490253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mrinaal Arora</b></sub></a><br /><a href="#content-aroramrinaal" title="Content">🖋</a></td>
     <td align="center"><a href="https://akshatmittal61.github.io"><img src="https://avatars.githubusercontent.com/u/84612609?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Mittal</b></sub></a><br /><a href="#content-akshatmittal61" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divya</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
   </tr>
 </table>
 
