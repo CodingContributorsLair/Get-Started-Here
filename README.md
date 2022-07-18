@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://aroramrinaal.github.io"><img src="https://avatars.githubusercontent.com/u/90490253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mrinaal Arora</b></sub></a><br /><a href="#content-aroramrinaal" title="Content">🖋</a></td>
     <td align="center"><a href="https://akshatmittal61.github.io"><img src="https://avatars.githubusercontent.com/u/84612609?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Mittal</b></sub></a><br /><a href="#content-akshatmittal61" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
+    <td align="center"><a href="https://snehasharma1111.github.io"><img src="https://avatars.githubusercontent.com/u/92130285?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sneha Sharma</b></sub></a><br /><a href="#content-snehasharma1111" title="Content">🖋</a></td>
   </tr>
 </table>
 
