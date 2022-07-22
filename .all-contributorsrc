@@ -67,6 +67,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "HarmonySkull",
+      "name": "David Gavilanez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109529692?v=4",
+      "profile": "https://harmonyskull.codes",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
