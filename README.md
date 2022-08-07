@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/109529692?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-HarmonySkull" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
   </tr>
 </table>
 
