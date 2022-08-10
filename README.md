@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/109529692?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-HarmonySkull" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
     <td align="center"><a href="https://ashwinjadhav.hashnode.dev"><img src="https://avatars.githubusercontent.com/u/81229115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashwin Jadhav</b></sub></a><br /><a href="#content-AshwinJadhav818" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Onyelaudochukwuka"><img src="https://avatars.githubusercontent.com/u/82924100?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onyela Udochukwuka</b></sub></a><br /><a href="#content-Onyelaudochukwuka" title="Content">🖋</a></td>
   </tr>
 </table>
 
