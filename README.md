@@ -20,7 +20,7 @@ This repository is designed for helping beginners contribute to open-source and 
 
 #### **ON YOUR FORKED REPOSITORY**, copy the link by pressing the clipboard and on your local git, copy the link in. If you are unable, use the link below and replace `username` with your GithHub username :
 
-                                                   https://github.com/username/reponame.git
+                                           https://github.com/username/reponame.git
 
 ### 3. Make your changes :
 
