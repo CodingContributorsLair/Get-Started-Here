@@ -87,6 +87,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
     <td align="center"><a href="https://ashwinjadhav.hashnode.dev"><img src="https://avatars.githubusercontent.com/u/81229115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashwin Jadhav</b></sub></a><br /><a href="#content-AshwinJadhav818" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Onyelaudochukwuka"><img src="https://avatars.githubusercontent.com/u/82924100?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onyela Udochukwuka</b></sub></a><br /><a href="#content-Onyelaudochukwuka" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/phuocantd"><img src="https://avatars.githubusercontent.com/u/31690470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phuocantd</b></sub></a><br /><a href="#content-phuocantd" title="Content">🖋</a></td>
   </tr>
 </table>
 
