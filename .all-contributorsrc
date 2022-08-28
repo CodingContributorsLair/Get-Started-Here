@@ -103,6 +103,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hemantwasthere",
+      "name": "Hemant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85151171?v=4",
+      "profile": "https://itsmehemant.tech",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
