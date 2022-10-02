@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -73,23 +73,29 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/Jyoti-prakash-rout"><img src="https://avatars.githubusercontent.com/u/85782825?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jyoti prakash Rout</b></sub></a><br /><a href="#content-Jyoti-prakash-rout" title="Content">🖋</a></td>
-    <td align="center"><a href="https://avidcoder101.github.io"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#projectManagement-AvidCoder101" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://aroramrinaal.github.io"><img src="https://avatars.githubusercontent.com/u/90490253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mrinaal Arora</b></sub></a><br /><a href="#content-aroramrinaal" title="Content">🖋</a></td>
-    <td align="center"><a href="https://akshatmittal61.github.io"><img src="https://avatars.githubusercontent.com/u/84612609?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Mittal</b></sub></a><br /><a href="#content-akshatmittal61" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
-    <td align="center"><a href="https://snehasharma1111.github.io"><img src="https://avatars.githubusercontent.com/u/92130285?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sneha Sharma</b></sub></a><br /><a href="#content-snehasharma1111" title="Content">🖋</a></td>
-    <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/13292121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-ParadoxElder" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/109529692?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-HarmonySkull" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
-    <td align="center"><a href="https://ashwinjadhav.hashnode.dev"><img src="https://avatars.githubusercontent.com/u/81229115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashwin Jadhav</b></sub></a><br /><a href="#content-AshwinJadhav818" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Onyelaudochukwuka"><img src="https://avatars.githubusercontent.com/u/82924100?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onyela Udochukwuka</b></sub></a><br /><a href="#content-Onyelaudochukwuka" title="Content">🖋</a></td>
-    <td align="center"><a href="https://itsmehemant.tech"><img src="https://avatars.githubusercontent.com/u/85151171?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hemant</b></sub></a><br /><a href="#content-hemantwasthere" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/ahmadhassan7"><img src="https://avatars.githubusercontent.com/u/58811539?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmad Hassan</b></sub></a><br /><a href="#content-ahmadhassan7" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Jyoti-prakash-rout"><img src="https://avatars.githubusercontent.com/u/85782825?v=4?s=100" width="100px;" alt="Jyoti prakash Rout"/><br /><sub><b>Jyoti prakash Rout</b></sub></a><br /><a href="#content-Jyoti-prakash-rout" title="Content">🖋</a></td>
+      <td align="center"><a href="https://avidcoder101.github.io"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt="AvidCoder"/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#projectManagement-AvidCoder101" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://aroramrinaal.github.io"><img src="https://avatars.githubusercontent.com/u/90490253?v=4?s=100" width="100px;" alt="Mrinaal Arora"/><br /><sub><b>Mrinaal Arora</b></sub></a><br /><a href="#content-aroramrinaal" title="Content">🖋</a></td>
+      <td align="center"><a href="https://akshatmittal61.github.io"><img src="https://avatars.githubusercontent.com/u/84612609?v=4?s=100" width="100px;" alt="Akshat Mittal"/><br /><sub><b>Akshat Mittal</b></sub></a><br /><a href="#content-akshatmittal61" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt="d-coder111"/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
+      <td align="center"><a href="https://snehasharma1111.github.io"><img src="https://avatars.githubusercontent.com/u/92130285?v=4?s=100" width="100px;" alt="Sneha Sharma"/><br /><sub><b>Sneha Sharma</b></sub></a><br /><a href="#content-snehasharma1111" title="Content">🖋</a></td>
+      <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/13292121?v=4?s=100" width="100px;" alt="David Gavilanez"/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-ParadoxElder" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://harmonyskull.codes"><img src="https://avatars.githubusercontent.com/u/109529692?v=4?s=100" width="100px;" alt="David Gavilanez"/><br /><sub><b>David Gavilanez</b></sub></a><br /><a href="#content-HarmonySkull" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt="0xMRTT"/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
+      <td align="center"><a href="https://ashwinjadhav.hashnode.dev"><img src="https://avatars.githubusercontent.com/u/81229115?v=4?s=100" width="100px;" alt="Ashwin Jadhav"/><br /><sub><b>Ashwin Jadhav</b></sub></a><br /><a href="#content-AshwinJadhav818" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Onyelaudochukwuka"><img src="https://avatars.githubusercontent.com/u/82924100?v=4?s=100" width="100px;" alt="Onyela Udochukwuka"/><br /><sub><b>Onyela Udochukwuka</b></sub></a><br /><a href="#content-Onyelaudochukwuka" title="Content">🖋</a></td>
+      <td align="center"><a href="https://itsmehemant.tech"><img src="https://avatars.githubusercontent.com/u/85151171?v=4?s=100" width="100px;" alt="Hemant"/><br /><sub><b>Hemant</b></sub></a><br /><a href="#content-hemantwasthere" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/ahmadhassan7"><img src="https://avatars.githubusercontent.com/u/58811539?v=4?s=100" width="100px;" alt="Ahmad Hassan"/><br /><sub><b>Ahmad Hassan</b></sub></a><br /><a href="#content-ahmadhassan7" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Gurnav224"><img src="https://avatars.githubusercontent.com/u/72142482?v=4?s=100" width="100px;" alt="Gurnav chaudhary"/><br /><sub><b>Gurnav chaudhary</b></sub></a><br /><a href="#content-Gurnav224" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    
+  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
