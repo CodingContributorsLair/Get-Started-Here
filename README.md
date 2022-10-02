@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -91,6 +91,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://itsmehemant.tech"><img src="https://avatars.githubusercontent.com/u/85151171?v=4?s=100" width="100px;" alt="Hemant"/><br /><sub><b>Hemant</b></sub></a><br /><a href="#content-hemantwasthere" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/ahmadhassan7"><img src="https://avatars.githubusercontent.com/u/58811539?v=4?s=100" width="100px;" alt="Ahmad Hassan"/><br /><sub><b>Ahmad Hassan</b></sub></a><br /><a href="#content-ahmadhassan7" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/Gurnav224"><img src="https://avatars.githubusercontent.com/u/72142482?v=4?s=100" width="100px;" alt="Gurnav chaudhary"/><br /><sub><b>Gurnav chaudhary</b></sub></a><br /><a href="#content-Gurnav224" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/arneja-arnav"><img src="https://avatars.githubusercontent.com/u/72198002?v=4?s=100" width="100px;" alt="Arnavdeep Singh Arneja"/><br /><sub><b>Arnavdeep Singh Arneja</b></sub></a><br /><a href="#content-arneja-arnav" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
