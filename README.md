@@ -3,7 +3,7 @@
 
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://github.com/arneja-arnav"><img src="https://avatars.githubusercontent.com/u/72198002?v=4?s=100" width="100px;" alt="Arnavdeep Singh Arneja"/><br /><sub><b>Arnavdeep Singh Arneja</b></sub></a><br /><a href="#content-arneja-arnav" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/0x44454c"><img src="https://avatars.githubusercontent.com/u/58584472?v=4?s=100" width="100px;" alt="DelusionaL"/><br /><sub><b>DelusionaL</b></sub></a><br /><a href="#content-0x44454c" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Rebsega"><img src="https://avatars.githubusercontent.com/u/47542769?v=4?s=100" width="100px;" alt="Renan Barbieri Segamarchi"/><br /><sub><b>Renan Barbieri Segamarchi</b></sub></a><br /><a href="#content-Rebsega" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
