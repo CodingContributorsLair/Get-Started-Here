@@ -157,6 +157,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "thisisharsh7",
+      "name": "Harsh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95894045?v=4",
+      "profile": "http://dev-harsh.vercel.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -164,5 +173,6 @@
   "projectOwner": "CodingContributorsLair",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
