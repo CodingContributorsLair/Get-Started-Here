@@ -1,6 +1,5 @@
 ## Add your name here when you have contributed to this repository :
 
-- ## [pratik-wadhai](https://github.com/pratik-wadhai)
 - ## [AvidCoder](https://github.com/AvidCoder101/)
 - ## [Jyoti prakash Rout](https://github.com/Jyoti-prakash-rout)
 - ## [Mrinaal Arora](https://github.com/aroramrinaal)
@@ -21,4 +20,4 @@
 - ## [Rebsega](https://github.com/Rebsega)
 - ## [0x44454c](https://github.com/0x44454c)
 - ## [thisisharsh7](https://github.com/thisisharsh7)
-
+- ## [pratik-wadhai](https://github.com/pratik-wadhai)
