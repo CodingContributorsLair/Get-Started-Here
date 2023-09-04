@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rebsega"><img src="https://avatars.githubusercontent.com/u/47542769?v=4?s=100" width="100px;" alt="Renan Barbieri Segamarchi"/><br /><sub><b>Renan Barbieri Segamarchi</b></sub></a><br /><a href="#content-Rebsega" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://dev-harsh.vercel.app"><img src="https://avatars.githubusercontent.com/u/95894045?v=4?s=100" width="100px;" alt="Harsh Kumar"/><br /><sub><b>Harsh Kumar</b></sub></a><br /><a href="#content-thisisharsh7" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pratik-wadhai"><img src="https://avatars.githubusercontent.com/u/81483293?v=4?s=100" width="100px;" alt="Pratik Wadhai"/><br /><sub><b>Pratik Wadhai</b></sub></a><br /><a href="#content-pratik-wadhai" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SAD0XER"><img src="https://avatars.githubusercontent.com/u/79737447?v=4?s=100" width="100px;" alt="SARVESH DEVRUKHAKAR"/><br /><sub><b>SARVESH DEVRUKHAKAR</b></sub></a><br /><a href="#content-SAD0XER" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
