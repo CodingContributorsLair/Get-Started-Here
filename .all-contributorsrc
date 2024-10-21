@@ -220,6 +220,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "shinevue",
+      "name": "Shine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135434950?v=4",
+      "profile": "https://github.com/shinevue",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
