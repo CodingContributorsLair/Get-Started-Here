@@ -1,6 +1,6 @@
 # Don't know where to start? Get Started Here
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This repository is designed for helping beginners contribute to open-source and get started with the organisation. Remember, contributing to any of our repositories can result in an invitation.
 
@@ -103,6 +103,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://alaminsec.me"><img src="https://avatars.githubusercontent.com/u/86530759?v=4?s=100" width="100px;" alt="Md. Alamin A."/><br /><sub><b>Md. Alamin A.</b></sub></a><br /><a href="#content-Alamin0x01" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mubshr07"><img src="https://avatars.githubusercontent.com/u/34352213?v=4?s=100" width="100px;" alt="Mubashir Iqbal"/><br /><sub><b>Mubashir Iqbal</b></sub></a><br /><a href="#content-Mubshr07" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BeautifulMoon211"><img src="https://avatars.githubusercontent.com/u/138989052?v=4?s=100" width="100px;" alt="みつき"/><br /><sub><b>みつき</b></sub></a><br /><a href="#content-BeautifulMoon211" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shinevue"><img src="https://avatars.githubusercontent.com/u/135434950?v=4?s=100" width="100px;" alt="Shine"/><br /><sub><b>Shine</b></sub></a><br /><a href="#content-shinevue" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mutanplex.com"><img src="https://avatars.githubusercontent.com/u/55329698?v=4?s=100" width="100px;" alt="Barış AL"/><br /><sub><b>Barış AL</b></sub></a><br /><a href="#content-MutanPlex" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dragonsea0927"><img src="https://avatars.githubusercontent.com/u/177758551?v=4?s=100" width="100px;" alt="Zhao Fei"/><br /><sub><b>Zhao Fei</b></sub></a><br /><a href="#content-dragonsea0927" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OrionFable"><img src="https://avatars.githubusercontent.com/u/20168172?v=4?s=100" width="100px;" alt="OrionFable"/><br /><sub><b>OrionFable</b></sub></a><br /><a href="#content-OrionFable" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
