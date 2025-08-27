@@ -114,6 +114,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OrionFable"><img src="https://avatars.githubusercontent.com/u/20168172?v=4?s=100" width="100px;" alt="OrionFable"/><br /><sub><b>OrionFable</b></sub></a><br /><a href="#content-OrionFable" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/joebertcerezo"><img src="https://avatars.githubusercontent.com/u/104471296?v=4?s=100" width="100px;" alt="Joebert Cerezo"/><br /><sub><b>Joebert Cerezo</b></sub></a><br /><a href="#content-joebertcerezo" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://johnraivenolazo.tech"><img src="https://avatars.githubusercontent.com/u/137252774?v=4?s=100" width="100px;" alt="aven"/><br /><sub><b>aven</b></sub></a><br /><a href="#content-johnraivenolazo" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ploc.vercel.app"><img src="https://avatars.githubusercontent.com/u/88624053?v=4?s=100" width="100px;" alt="𝕿𝖗𝖆𝖓 𝕹𝖌𝖚𝖞𝖊𝖓 𝕿𝖍𝖚𝖔𝖓𝖌 𝕿𝖗𝖚𝖔𝖓𝖌 ☆"/><br /><sub><b>𝕿𝖗𝖆𝖓 𝕹𝖌𝖚𝖞𝖊𝖓 𝕿𝖍𝖚𝖔𝖓𝖌 𝕿𝖗𝖚𝖔𝖓𝖌 ☆</b></sub></a><br /><a href="#content-thuongtruong109" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

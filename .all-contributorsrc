@@ -276,10 +276,21 @@
       ]
     },
     {
+
       "login": "johnraivenolazo",
       "name": "aven",
       "avatar_url": "https://avatars.githubusercontent.com/u/137252774?v=4",
       "profile": "http://johnraivenolazo.tech",
+      "contributions": [
+        "content"
+      ]
+    }
+    {
+      "login": "thuongtruong109",
+      "name": "𝕿𝖗𝖆𝖓 𝕹𝖌𝖚𝖞𝖊𝖓 𝕿𝖍𝖚𝖔𝖓𝖌 𝕿𝖗𝖚𝖔𝖓𝖌 ☆",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88624053?v=4",
+      "profile": "http://ploc.vercel.app",
+
       "contributions": [
         "content"
       ]
