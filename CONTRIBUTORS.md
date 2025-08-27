@@ -30,6 +30,7 @@
 - ## [Shine](https://github.com/shinevue)
 - ## [dragonsea0927](https://github.com/dragonsea0927)
 - ## [OrionFable](https://github.com/OrionFable)
+- ## [johnraivenolazo](https://github.com/johnraivenolazo)
 - ## [Joebert Cerezo](https://github.com/joebertcerezo)
 - ## [Tran Nguyen Thuong Truong](https://github.com/thuongtruong109)
-  
+ 
