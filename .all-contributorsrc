@@ -274,6 +274,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "johnraivenolazo",
+      "name": "aven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137252774?v=4",
+      "profile": "http://johnraivenolazo.tech",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
