@@ -284,7 +284,16 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "anshumanjadiya1102",
+      "name": "Anshuman Jadiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225169841?v=4",
+      "profile": "https://anshumanjadiya1102.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
     {
       "login": "thuongtruong109",
       "name": "𝕿𝖗𝖆𝖓 𝕹𝖌𝖚𝖞𝖊𝖓 𝕿𝖍𝖚𝖔𝖓𝖌 𝕿𝖗𝖚𝖔𝖓𝖌 ☆",
@@ -305,3 +314,4 @@
   "commitConvention": "angular",
   "commitType": "docs"
 }
+
