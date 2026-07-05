@@ -33,4 +33,4 @@
 - ## [johnraivenolazo](https://github.com/johnraivenolazo)
 - ## [Joebert Cerezo](https://github.com/joebertcerezo)
 - ## [Tran Nguyen Thuong Truong](https://github.com/thuongtruong109)
- 
+ - ## [David Mireles](https://github.com/louzt)
