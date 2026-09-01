@@ -35,3 +35,6 @@
 - ## [Tran Nguyen Thuong Truong](https://github.com/thuongtruong109)
 - ## [David Mireles](https://github.com/louzt)
 - ## [iamkramzTech](https://github.com/iamkramzTech) 
+- ## [JoeyCollado](https://github.com/JoeyCollado)
+
+ 
