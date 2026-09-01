@@ -36,5 +36,6 @@
 - ## [David Mireles](https://github.com/louzt)
 - ## [iamkramzTech](https://github.com/iamkramzTech) 
 - ## [JoeyCollado](https://github.com/JoeyCollado)
-
- 
+- ## [Anshuman Jadiya](https://github.com/anshumanjadiya1102)
+- ## [iamkramzTech](https://github.com/iamkramzTech) 
+- ## [JoeyCollado](https://github.com/JoeyCollado)
