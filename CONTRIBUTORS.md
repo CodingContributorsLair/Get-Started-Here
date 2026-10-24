@@ -39,3 +39,5 @@
 - ## [Anshuman Jadiya](https://github.com/anshumanjadiya1102)
 - ## [iamkramzTech](https://github.com/iamkramzTech) 
 - ## [JoeyCollado](https://github.com/JoeyCollado)
+- ## [Huerte](https://github.com/Huerte)
+  
